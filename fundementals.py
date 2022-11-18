@@ -1,3 +1,5 @@
+print(" \n read all the code below and look at the outputs to undrestand how data is being handled in python and then u can have better underestanding of the python language \n")
+
 # varibales in python 
 
 x = 2 
@@ -183,7 +185,10 @@ class_var.second()
 class_var.hello_world()
 
 class_var.forth()
-    
+
+
+print("================================================================")
+
 
     
     
